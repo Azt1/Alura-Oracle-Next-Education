@@ -13,3 +13,24 @@
     display: flex;
     justify-content: space-between;
 }
+
+.rodapePrincipal-navMap-list {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    height: 250px;
+}
+
+.conteudoPrincipal-cursos {
+    display: flex;
+}
+
+.conteudoPrincipal-cursos-link {
+    width: 23%;
+    margin-bottom: 1%;
+}
+
+.conteudoPrincipal-cursos {
+    display: flex;
+    flex-wrap: wrap;
+}
